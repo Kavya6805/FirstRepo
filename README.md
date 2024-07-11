@@ -1,4 +1,4 @@
 # FirstRepo
 This is my first repository
 <br>
-Author: Modi Kavya
+Author: Modi Kavya Bharatbhai
